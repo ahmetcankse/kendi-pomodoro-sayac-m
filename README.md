@@ -1,2 +1,2 @@
-# kendi-pomodoro-sayac-m
+  # kendi-pomodoro-sayacim
 ders çalışmanızı sağlar
